@@ -1,6 +1,6 @@
 
 public class helloWorld{
-	//Justin Ridout
+	//Taylor Layton
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 	}
